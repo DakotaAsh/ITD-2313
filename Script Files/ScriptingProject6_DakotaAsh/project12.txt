@@ -1,0 +1,3 @@
+Dakota 36 999
+Rennala 5 40
+Ranni 40 1020
